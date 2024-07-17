@@ -28,7 +28,7 @@ Skewness and kurtosis are statistical measures that help to describe the shape o
 - Evaluating the Model
 
   ## CONCLUSION:
-  ________________________________________________________
+   ______________________________________________________
   | Regression	| Alpha Value	| Train Score	| Test Score |
   |-------------|-------------|-------------|------------|
   | Ridge       |     100	    |    0.81     |   0.83     |
