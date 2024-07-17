@@ -16,6 +16,9 @@ For ridge regression, we introduce GridSearchCV. This will allow us to automatic
 ### Lasso Regression: 
 Lasso regression analysis is a shrinkage and variable selection method for linear regression models. The goal of lasso regression is to obtain the subset of predictors that minimizes prediction error for a quantitative response variable. The lasso does this by imposing a constraint on the model parameters that cause regression coefficients for some variables to shrink toward zero. Variables with a regression coefficient equal to zero after the shrinkage process are excluded from the model. Variables with nonzero regression coefficients variables are most strongly associated with the response variable. Explanatory variables can be either quantitative, categorical, or both. 
 
+### Calculating skew and kurt: 
+Skewness and kurtosis are statistical measures that help to describe the shape of a distribution. Skewness measures the degree of asymmetry of a distribution, while kurtosis measures the degree of peakedness of a distribution. 
+
 ## METHODOLOGY: 
 - Importing Dataset
 - Data Cleaning
@@ -25,8 +28,9 @@ Lasso regression analysis is a shrinkage and variable selection method for linea
 - Evaluating the Model
 
   ## CONCLUSION:
-  Regression	Alpha Value	  Train Score	  Test Score
-
-   Ridge        	100	           0.81	         0.83
-
-   Lasso       	0.01       	   0.9       	   0.88
+  ________________________________________________________
+  | Regression	| Alpha Value	| Train Score	| Test Score |
+  |-------------|-------------|-------------|------------|
+  | Ridge       |     100	    |    0.81     |   0.83     |
+  | Lasso       |     0.01    |    0.90     |   0.88     |
+  |_____________|_____________|_____________|____________|
