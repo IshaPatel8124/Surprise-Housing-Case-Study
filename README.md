@@ -1,4 +1,3 @@
-# Surprise-Housing-Case-Study
 
 ## ABSTRACT:
 In this case study, we have been identified by Surprise Housing, a US based housing company which uses data analytics to purchase houses at a price below their actual values and flip them at a higher price. The company wants to enter the Australian Market and hence are looking at prospective properties to buy. They want to understand what factors are affecting the prices and how exactly those factors are influencing it. The company would then manipulate the strategy of the firm and concentrate on areas that will yield a high return.
