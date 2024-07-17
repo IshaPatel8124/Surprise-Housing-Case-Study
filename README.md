@@ -26,5 +26,7 @@ Lasso regression analysis is a shrinkage and variable selection method for linea
 
   ## CONCLUSION:
   Regression	Alpha Value	  Train Score	  Test Score
-  Ridge        	100	           0.81	         0.83
-  Lasso       	0.01       	   0.9       	   0.88
+
+   Ridge        	100	           0.81	         0.83
+
+   Lasso       	0.01       	   0.9       	   0.88
